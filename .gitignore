@@ -1,0 +1,13 @@
+node_modules/
+dist/
+
+.env
+.env.*
+!.env.example
+
+*.local
+.DS_Store
+
+# Local/private evidence files that should not be published with the portfolio.
+/*.pdf
+/public/cv/
